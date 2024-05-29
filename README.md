@@ -5,5 +5,5 @@ I'm Selebogo, based in South Africa. I am currently a Data Scientist and I have 
 
 <p align="center" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmosoeu&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight&langs_count=6" alt="Top Languages"/>
-<img align="center" padding-left="20px" src="https://github-readme-stats.vercel.app/api?username=scmosoeu&show_icons=true&theme=tokyonight" alt="Github Stats"/>
+<img align="center" padding-left="100px" src="https://github-readme-stats.vercel.app/api?username=scmosoeu&show_icons=true&theme=tokyonight" alt="Github Stats"/>
 </p>
