@@ -4,4 +4,4 @@ I'm Selebogo, based in South Africa. I am currently a Data Scientist and I have 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scmosoeu&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scmosoeu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scmosoeu&layout=compact&hide=Jupyter&Notebook)
