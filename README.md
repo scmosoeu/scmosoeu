@@ -6,7 +6,7 @@ I'm Selebogo, based in South Africa. I am currently a Data Scientist and I have 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=scmosoeu&show_icons=true&theme=tokyonight" /></p>
 
-<p align="left" >
+<p align="center" >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scmosoeu&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight&langs_count=6" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=scmosoeu&show_icons=true&theme=tokyonight" />
 </p>
